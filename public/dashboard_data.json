@@ -1,0 +1,28 @@
+{
+  "report_date": "2026-04-23",
+  "dates": ["2026-04-16", "2026-04-17", "2026-04-18", "2026-04-19", "2026-04-20", "2026-04-21", "2026-04-22", "2026-04-23"],
+  "data": {
+    "report_date": "2026-04-23",
+    "overall_satisfaction": 96.47,
+    "hao_huo_ban_satisfaction": 98.38,
+    "chun_ke_satisfaction": 97.01,
+    "ai_satisfaction": 88.00,
+    "satisfaction_change": -0.53,
+    "daily_conversion_rate": 41.34,
+    "monthly_conversion_rate": 50.03,
+    "last_year_conversion_rate": 47.73,
+    "conversion_change": 2.30,
+    "product_quality_score": 4.94,
+    "logistics_speed_score": 5.00,
+    "service_security_score": 5.00,
+    "product_negative_rate": 0.001436,
+    "product_good_rate": 97.15,
+    "pickup_timely_rate": 99.99,
+    "logistics_duration_hours": 40.42,
+    "response_rate": 99.74,
+    "wangwang_satisfaction": 97.27,
+    "refund_duration_hours": 1.34,
+    "platform_help_rate": 0.000363,
+    "summary": "整体满意率小幅回落至96.47%，主因AI智能组下滑至88%严重拖累整体。人工服务高位稳定，物流与服务保障表现优异，转化率同比提升2.30%趋势向好。AI组服务质量亟待改善。"
+  }
+}

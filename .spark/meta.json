@@ -1,0 +1,15 @@
+{
+  "appId": "app_4k07ks00ztx7z",
+  "conversationId": "conversation_4k07mxt47a0ww",
+  "createdAt": "2026-04-24T14:42:14+08:00",
+  "updatedAt": "2026-04-24T18:06:01+08:00",
+  "features": [
+    "client"
+  ],
+  "stack": "apex",
+  "version": "0.1.42",
+  "template": "apex",
+  "archType": 2,
+  "appUrl": "https://ubras.aiforce.cloud/app/app_4k07ks00ztx7z",
+  "finalText": "重新构建并部署已完成，版本 v18。\n\n**🔗 https://ubras.aiforce.cloud/app/app_4k07ks00ztx7z**\n\n构建过程中发现并修复了一个类型错误：`axiosForBackend` 返回的是 `AxiosResponse` 对象，代码需要从中提取 `.data` 才能获取实际响应数据。现已修正并通过类型检查。"
+}

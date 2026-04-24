@@ -1,0 +1,234 @@
+{
+  "2026-04-23": {
+    "date": "2026-04-23",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.94分", "score": 4.94, "benchmark": "超过92%同行" },
+      { "name": "物流速度", "value": "5.00分", "score": 5.0, "benchmark": "超过99%同行" },
+      { "name": "服务保障", "value": "5.00分", "score": 5.0, "benchmark": "超过99%同行" },
+      { "name": "商品负反馈率", "value": "0.1436%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "商品好评率", "value": "97.15%", "score": 4.8, "benchmark": "得分4.8分" },
+      { "name": "48小时揽收及时率", "value": "99.99%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "40.42小时", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "3分钟人工响应率", "value": "99.74%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "旺旺满意度", "value": "97.27%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "1.34小时", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "平台求助率", "value": "0.0363%", "score": 5.0, "benchmark": "得分5.0分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 96.47, "change": -0.53, "isAbnormal": true },
+      { "label": "好伙伴", "rate": 98.38, "change": -0.13 },
+      { "label": "春客", "rate": 97.01, "change": -0.10 },
+      { "label": "AI智能组", "rate": 88.00, "change": -4.16, "isAbnormal": true }
+    ],
+    "conversion": {
+      "daily": 41.34,
+      "monthlyAvg": 50.03,
+      "lastYear": 47.73,
+      "yoy": 2.30
+    },
+    "summary": "整体满意率小幅下滑0.53%，需关注客户体验趋势。AI智能组满意率异常下降4.16%，远低于其他组，建议立即排查AI话术流程与训练数据。当日转化率41.34%低于月均50.03%，客服话术优化空间较大，可重点复盘高流失节点。物流速度、服务保障等多项指标满分5.0分，超过99%同行，继续保持当前服务标准。"
+  },
+  "2026-04-22": {
+    "date": "2026-04-22",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.92分", "score": 4.92, "benchmark": "超过90%同行" },
+      { "name": "物流速度", "value": "5.00分", "score": 5.0, "benchmark": "超过99%同行" },
+      { "name": "服务保障", "value": "5.00分", "score": 5.0, "benchmark": "超过99%同行" },
+      { "name": "商品负反馈率", "value": "0.1520%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "商品好评率", "value": "96.80%", "score": 4.7, "benchmark": "得分4.7分" },
+      { "name": "48小时揽收及时率", "value": "99.95%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "41.20小时", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "3分钟人工响应率", "value": "99.60%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "旺旺满意度", "value": "97.10%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "1.42小时", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "平台求助率", "value": "0.0410%", "score": 5.0, "benchmark": "得分5.0分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 97.00, "change": 0.12 },
+      { "label": "好伙伴", "rate": 98.51, "change": 0.05 },
+      { "label": "春客", "rate": 97.11, "change": 0.08 },
+      { "label": "AI智能组", "rate": 92.16, "change": -0.85, "isAbnormal": true }
+    ],
+    "conversion": {
+      "daily": 48.20,
+      "monthlyAvg": 49.80,
+      "lastYear": 47.73,
+      "yoy": 0.47
+    },
+    "summary": "整体满意率稳中有升0.12%，整体运营平稳向好。AI智能组持续下降0.85%，需加强模型调优与异常场景训练，避免进一步恶化。当日转化率48.20%接近月均49.80%，同比小幅增长0.47%，转化漏斗基本稳定。建议重点分析AI智能组低满意度根因，同步保持其他组优势项。"
+  },
+  "2026-04-21": {
+    "date": "2026-04-21",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.90分", "score": 4.90, "benchmark": "超过88%同行" },
+      { "name": "物流速度", "value": "5.00分", "score": 5.0, "benchmark": "超过99%同行" },
+      { "name": "服务保障", "value": "4.98分", "score": 4.98, "benchmark": "超过98%同行" },
+      { "name": "商品负反馈率", "value": "0.1680%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "商品好评率", "value": "96.50%", "score": 4.7, "benchmark": "得分4.7分" },
+      { "name": "48小时揽收及时率", "value": "99.88%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "42.15小时", "score": 4.9, "benchmark": "得分4.9分" },
+      { "name": "3分钟人工响应率", "value": "99.45%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "旺旺满意度", "value": "96.85%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "1.55小时", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "平台求助率", "value": "0.0480%", "score": 5.0, "benchmark": "得分5.0分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 96.88, "change": -0.22 },
+      { "label": "好伙伴", "rate": 98.46, "change": -0.08 },
+      { "label": "春客", "rate": 97.03, "change": -0.15 },
+      { "label": "AI智能组", "rate": 93.01, "change": -1.20, "isAbnormal": true }
+    ],
+    "conversion": {
+      "daily": 52.10,
+      "monthlyAvg": 49.50,
+      "lastYear": 47.73,
+      "yoy": 4.37
+    },
+    "summary": "当日转化率52.10%超月均49.50%，同比增长4.37%，转化表现优秀。整体满意率微降0.22%，AI智能组异常下降1.2%，需排查AI应答准确性与用户情绪识别能力。物流到货时长42.15小时，得分4.9仍有提升空间，建议与物流侧协同优化配送时效，缩短用户等待周期。"
+  },
+  "2026-04-20": {
+    "date": "2026-04-20",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.88分", "score": 4.88, "benchmark": "超过85%同行" },
+      { "name": "物流速度", "value": "4.98分", "score": 4.98, "benchmark": "超过97%同行" },
+      { "name": "服务保障", "value": "4.96分", "score": 4.96, "benchmark": "超过96%同行" },
+      { "name": "商品负反馈率", "value": "0.1850%", "score": 4.9, "benchmark": "得分4.9分" },
+      { "name": "商品好评率", "value": "96.20%", "score": 4.6, "benchmark": "得分4.6分" },
+      { "name": "48小时揽收及时率", "value": "99.75%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "43.80小时", "score": 4.8, "benchmark": "得分4.8分" },
+      { "name": "3分钟人工响应率", "value": "99.20%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "旺旺满意度", "value": "96.50%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "1.68小时", "score": 4.9, "benchmark": "得分4.9分" },
+      { "name": "平台求助率", "value": "0.0550%", "score": 5.0, "benchmark": "得分4.9分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 97.10, "change": 0.35 },
+      { "label": "好伙伴", "rate": 98.54, "change": 0.20 },
+      { "label": "春客", "rate": 97.18, "change": 0.25 },
+      { "label": "AI智能组", "rate": 94.21, "change": 0.80 }
+    ],
+    "conversion": {
+      "daily": 46.80,
+      "monthlyAvg": 49.20,
+      "lastYear": 47.73,
+      "yoy": -0.93
+    },
+    "summary": "各职场满意率均回升，整体满意率97.10%增长0.35%，客户体验明显改善。AI智能组恢复增长0.80%，前日优化措施初见成效。当日转化率46.80%略低于月均49.20%，同比微降0.93%，建议加强促销期间客服话术培训，提升促单能力，保持满意率优势的同时补齐转化短板。"
+  },
+  "2026-04-19": {
+    "date": "2026-04-19",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.85分", "score": 4.85, "benchmark": "超过82%同行" },
+      { "name": "物流速度", "value": "4.96分", "score": 4.96, "benchmark": "超过95%同行" },
+      { "name": "服务保障", "value": "4.94分", "score": 4.94, "benchmark": "超过94%同行" },
+      { "name": "商品负反馈率", "value": "0.2100%", "score": 4.8, "benchmark": "得分4.8分" },
+      { "name": "商品好评率", "value": "95.80%", "score": 4.5, "benchmark": "得分4.5分" },
+      { "name": "48小时揽收及时率", "value": "99.60%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "45.20小时", "score": 4.7, "benchmark": "得分4.7分" },
+      { "name": "3分钟人工响应率", "value": "98.90%", "score": 4.9, "benchmark": "得分4.9分" },
+      { "name": "旺旺满意度", "value": "96.20%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "1.82小时", "score": 4.8, "benchmark": "得分4.8分" },
+      { "name": "平台求助率", "value": "0.0620%", "score": 4.9, "benchmark": "得分4.9分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 96.75, "change": -0.45 },
+      { "label": "好伙伴", "rate": 98.34, "change": -0.28 },
+      { "label": "春客", "rate": 96.93, "change": -0.35 },
+      { "label": "AI智能组", "rate": 93.41, "change": -1.50, "isAbnormal": true }
+    ],
+    "conversion": {
+      "daily": 44.50,
+      "monthlyAvg": 48.90,
+      "lastYear": 47.73,
+      "yoy": -3.23
+    },
+    "summary": "整体满意率下降0.45%，各职场均有下滑，需引起高度重视。AI智能组异常下降1.5%，建议立即暂停高风险话术并回滚至稳定版本。当日转化率44.50%低于月均48.90%，同比负增长3.23%，双重压力叠加。建议紧急召开运营复盘会，从话术、流量质量、商品定价三维度排查根因。"
+  },
+  "2026-04-18": {
+    "date": "2026-04-18",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.82分", "score": 4.82, "benchmark": "超过80%同行" },
+      { "name": "物流速度", "value": "4.94分", "score": 4.94, "benchmark": "超过93%同行" },
+      { "name": "服务保障", "value": "4.92分", "score": 4.92, "benchmark": "超过92%同行" },
+      { "name": "商品负反馈率", "value": "0.2350%", "score": 4.7, "benchmark": "得分4.7分" },
+      { "name": "商品好评率", "value": "95.50%", "score": 4.4, "benchmark": "得分4.4分" },
+      { "name": "48小时揽收及时率", "value": "99.45%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "46.80小时", "score": 4.6, "benchmark": "得分4.6分" },
+      { "name": "3分钟人工响应率", "value": "98.60%", "score": 4.8, "benchmark": "得分4.8分" },
+      { "name": "旺旺满意度", "value": "95.90%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "1.95小时", "score": 4.7, "benchmark": "得分4.7分" },
+      { "name": "平台求助率", "value": "0.0700%", "score": 4.8, "benchmark": "得分4.8分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 97.20, "change": 0.28 },
+      { "label": "好伙伴", "rate": 98.62, "change": 0.15 },
+      { "label": "春客", "rate": 97.28, "change": 0.20 },
+      { "label": "AI智能组", "rate": 94.91, "change": 0.50 }
+    ],
+    "conversion": {
+      "daily": 51.30,
+      "monthlyAvg": 48.60,
+      "lastYear": 47.73,
+      "yoy": 3.57
+    },
+    "summary": "整体满意率回升至97.20%，各职场均有改善，客户体验回暖趋势明确。当日转化率51.30%超月均48.60%，同比增长3.57%，转化表现亮眼。但商品好评率95.50%仍偏低，建议品控部门加强出厂质检与发货前复核，从源头降低差评率。物流侧继续优化配送时效，缩短到货时长。"
+  },
+  "2026-04-17": {
+    "date": "2026-04-17",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.80分", "score": 4.80, "benchmark": "超过78%同行" },
+      { "name": "物流速度", "value": "4.92分", "score": 4.92, "benchmark": "超过91%同行" },
+      { "name": "服务保障", "value": "4.90分", "score": 4.90, "benchmark": "超过90%同行" },
+      { "name": "商品负反馈率", "value": "0.2580%", "score": 4.6, "benchmark": "得分4.6分" },
+      { "name": "商品好评率", "value": "95.20%", "score": 4.3, "benchmark": "得分4.3分" },
+      { "name": "48小时揽收及时率", "value": "99.30%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "48.50小时", "score": 4.5, "benchmark": "得分4.5分" },
+      { "name": "3分钟人工响应率", "value": "98.30%", "score": 4.8, "benchmark": "得分4.8分" },
+      { "name": "旺旺满意度", "value": "95.60%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "2.10小时", "score": 4.6, "benchmark": "得分4.6分" },
+      { "name": "平台求助率", "value": "0.0780%", "score": 4.7, "benchmark": "得分4.7分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 96.92, "change": -0.18 },
+      { "label": "好伙伴", "rate": 98.47, "change": -0.10 },
+      { "label": "春客", "rate": 97.08, "change": -0.12 },
+      { "label": "AI智能组", "rate": 94.41, "change": -0.65, "isAbnormal": true }
+    ],
+    "conversion": {
+      "daily": 47.60,
+      "monthlyAvg": 48.30,
+      "lastYear": 47.73,
+      "yoy": -0.13
+    },
+    "summary": "整体满意率微降0.18%，各职场小幅下滑但仍在高位运行。AI智能组异常下降0.65%，需关注模型迭代后的稳定性。当日转化率47.60%接近月均48.30%，同比基本持平，转化漏斗无重大异常。建议保持当前运营节奏，重点监控AI智能组后续数据趋势，及时介入调整。"
+  },
+  "2026-04-16": {
+    "date": "2026-04-16",
+    "experienceScore": [
+      { "name": "宝贝质量", "value": "4.78分", "score": 4.78, "benchmark": "超过75%同行" },
+      { "name": "物流速度", "value": "4.90分", "score": 4.90, "benchmark": "超过89%同行" },
+      { "name": "服务保障", "value": "4.88分", "score": 4.88, "benchmark": "超过88%同行" },
+      { "name": "商品负反馈率", "value": "0.2800%", "score": 4.5, "benchmark": "得分4.5分" },
+      { "name": "商品好评率", "value": "94.90%", "score": 4.2, "benchmark": "得分4.2分" },
+      { "name": "48小时揽收及时率", "value": "99.15%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "物流到货时长", "value": "50.20小时", "score": 4.4, "benchmark": "得分4.4分" },
+      { "name": "3分钟人工响应率", "value": "98.00%", "score": 4.7, "benchmark": "得分4.7分" },
+      { "name": "旺旺满意度", "value": "95.30%", "score": 5.0, "benchmark": "得分5.0分" },
+      { "name": "退款处理时长", "value": "2.25小时", "score": 4.5, "benchmark": "得分4.5分" },
+      { "name": "平台求助率", "value": "0.0850%", "score": 4.6, "benchmark": "得分4.6分" }
+    ],
+    "satisfaction": [
+      { "label": "整体", "rate": 97.10, "change": 0.22 },
+      { "label": "好伙伴", "rate": 98.57, "change": 0.12 },
+      { "label": "春客", "rate": 97.20, "change": 0.18 },
+      { "label": "AI智能组", "rate": 95.06, "change": 0.35 }
+    ],
+    "conversion": {
+      "daily": 49.80,
+      "monthlyAvg": 48.00,
+      "lastYear": 47.73,
+      "yoy": 2.07
+    },
+    "summary": "整体满意率回升至97.10%，各职场均有改善，开局势头良好。当日转化率49.80%超月均48.00%，同比增长2.07%，转化表现优异。但物流到货时长50.20小时，得分4.4为全周期最低项，建议物流部门优化中转链路，引入更多次日达覆盖区域，从履约端提升客户体验。"
+  }
+}
